@@ -1,6 +1,7 @@
 {
 	"name": "paho-client",
 	"version": "1.0.3",
+	"main": "src/paho-mqtt.js",
 	"description": "Pre reqs for the Paho JS client",
 	"dependencies": {
 		"websocket": "1.x.x",
